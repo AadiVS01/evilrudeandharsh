@@ -1,6 +1,6 @@
 # evilrudeandharsh
 
-**`Digital Craftsman (Developer/Photographer/Designer)`**
+**`Developer/Photographer/Designer`**
 
 I'm a full-stack developer and a UX designer trying to understand what does it take to make products more efficient. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
